@@ -8,9 +8,9 @@ Folder: MPC_exercise
 
 A control exercise for point-point trajectory control of a simple car using MPC. Used this as an exercise to familiarize myself with the tuning practices, simulation practices, MPC development structure, etc.
 
-If you want to recreate my steps please first go through the presentation file in the folder named 'MPC_car'. Once you go through it, you can open the file 'mpc_car_master' to run all the different simulations mentioned in the ppt.
+If you want to recreate my steps please first go through the presentation file named 'explainations_ppt'. Once you go through it, you can open the file 'mpc_car_master' to run all the different simulations mentioned in the ppt.
 
-I separated out the files just for seeing the difference in code more easily (side by side).
+I separated out the code files just for seeing the difference in code more easily (side by side).
 
 ------------------------------------------------------------------------------
 
